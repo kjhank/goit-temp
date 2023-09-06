@@ -16,6 +16,8 @@ npm ci
 
 Włączyć tryp pracy.
 
+EXAMPLE
+
 ```shell
 npm run dev
 ```
